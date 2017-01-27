@@ -13,7 +13,7 @@ if ( $dir ) {
 			$images_array[ $file_id ] = $main_url . $images_folder_name . '/' . $fileinfo->getFilename();
 		}
 	}
-}'';
+}
 
 if ( $images_array ) {
 	if ( isset( $_GET['id'] ) ) {
