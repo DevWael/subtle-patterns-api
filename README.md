@@ -8,3 +8,4 @@ just upload it to the server and change the following url to your own:
 ```php
 $main_url           = 'http://localhost/patterns/';
 ```
+Try the <a href="http://bbioon.com/api/patterns/">demo</a>
