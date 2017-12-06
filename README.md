@@ -1,4 +1,4 @@
-# subtlepatterns.com json api
+# subtlepatterns.com self-hosted json api
 get all subtlepatterns.com images with json format or get one image with json format using the following
 ```
 http://localhost/patterns?id=YOUR IMAGE ID
